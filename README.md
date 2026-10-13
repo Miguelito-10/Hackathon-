@@ -53,3 +53,5 @@ Las variables seleccionadas del catálogo oficial del **Servicio Geológico Colo
 6. **Métricas y Exportación a Power BI:**
    * Imprime en consola el reporte de clasificación completo y la precisión global del modelo (*Accuracy*).
    * Genera la tabla final `df_clean` y el resumen `df_metricas` para su integración e higienización directa en tableros de **Power BI**.
+  
+   * https://drive.google.com/drive/folders/1WJm08VodhfUN3MRG-BJfKTYM-9ok6LkB?usp=sharing
